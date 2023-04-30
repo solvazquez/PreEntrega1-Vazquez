@@ -1,0 +1,29 @@
+nav{
+    background-color: #e2cba2;
+    width: 100%;
+    color: #1d345d;
+    display: flex !important;
+    align-items: left;
+    justify-content: space-between;
+    font-weight: bold;
+    border-radius: 10px;
+    margin: 15px;
+    font-size: 110%;
+}
+
+li{
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+}
+
+.titulosPrincipales {
+    color: white;
+    font-weight: bolder;
+    font-family: "ZenAntiqueSoft-Regular";
+    font-size: 50px;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px; }
